@@ -1,9 +1,52 @@
 [
-    {
-        "data": "01-01-2026",
-        "nome": "Santa Maria, Mãe de Deus",
-        "slug": "santa-maria-mae-deus",
-        "legenda": "Quem nega Maria como Mãe de Deus já rompeu com o Cristianismo verdadeiro",
-        "historia": ""
-    }
+  {
+    "data": "01-01-2026",
+    "nome": "Santa Maria, Mãe de Deus",
+    "slug": "santa-maria-mae-de-deus",
+    "legenda": "Negar Maria como Mãe de Deus é negar quem Cristo é de verdade.",
+    "historia": "Texto longo da história..."
+  },
+  {
+    "data": "02-01-2026",
+    "nome": "São Basílio Magno e São Gregório Nazianzeno",
+    "slug": "basilio-magro-gregorio-nazianzeno",
+    "legenda": "Quando bispos traem a verdade, Deus levanta doutores que não negociam a fé.",
+    "historia": "Texto longo da história..."
+  },
+  {
+  "data": "03-01-2026",
+  "nome": "Santíssimo Nome de Jesus",
+  "slug": "santissimo-nome-de-jesus",
+  "legenda": "O nome de Jesus salva, mas só quem se converte de verdade o invoca corretamente.",
+  "historia": "A devoção ao Santíssimo Nome de Jesus nasce da fé da Igreja na eficácia do nome dado pelo próprio Deus ao Salvador. 'Jesus' significa 'Deus salva'. Desde os primeiros séculos, os cristãos veneraram este Nome como fonte de salvação, poder contra o mal e profissão pública de fé. Invocar o Nome de Jesus exige vida coerente, arrependimento e submissão à sua autoridade. Não é fórmula mágica, mas profissão de fé viva."
+ },
+ {
+  "data": "04-01-2026",
+  "nome": "Santa Ângela de Foligno",
+  "slug": "santa-angela-de-foligno",
+  "legenda": "Sem arrependimento radical, não existe santidade verdadeira.",
+  "historia": "Ângela de Foligno viveu uma juventude marcada pelo pecado e pelo apego aos bens materiais. Após a morte do marido e dos filhos, experimentou profunda conversão, entregando-se totalmente a Cristo. Viveu vida de penitência extrema, oração intensa e caridade radical. Suas experiências místicas foram reconhecidas pela Igreja como autênticas. Sua vida demonstra que ninguém está longe demais da misericórdia de Deus quando há arrependimento sincero."
+},
+{
+  "data": "05-01-2026",
+  "nome": "São Simeão Estilita",
+  "slug": "sao-simeao-estilita",
+  "legenda": "O mundo chama de loucura aquilo que denuncia o próprio pecado.",
+  "historia": "Simeão Estilita viveu no século V e buscou radicalmente a união com Deus. Retirou-se para uma vida de extrema penitência, vivendo por décadas no topo de uma coluna, dedicando-se à oração contínua. Sua vida atraiu multidões, converteu pecadores e confrontou a mediocridade espiritual de seu tempo. A Igreja reconheceu sua santidade como testemunho da primazia absoluta de Deus."
+},
+{
+  "data": "06-01-2026",
+  "nome": "Epifania do Senhor",
+  "slug": "epifania-do-senhor",
+  "legenda": "Cristo se manifesta a todos, mas só os humildes o reconhecem.",
+  "historia": "A Epifania celebra a manifestação de Jesus Cristo como Salvador universal. Representados pelos Magos, os povos pagãos reconhecem o Rei dos reis. Guiados pela estrela, adoram o Menino e oferecem ouro, incenso e mirra. A festa proclama que a salvação não é privilégio de poucos, mas exige busca sincera, humildade e adoração verdadeira."
+},
+{
+  "data": "07-01-2026",
+  "nome": "São Raimundo de Peñafort",
+  "slug": "sao-raimundo-de-penafort",
+  "legenda": "Ignorar a lei da Igreja é abrir caminho para o erro moral.",
+  "historia": "São Raimundo de Peñafort foi dominicano, canonista e confessor. Organizou o Direito Canônico da Igreja com rigor e fidelidade, ajudando a preservar a ordem moral e doutrinal. Também foi missionário e defensor da fé contra heresias. Sua vida mostra que a caridade nunca se separa da verdade."
+}
+
 ]
