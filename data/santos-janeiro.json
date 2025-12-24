@@ -103,8 +103,118 @@
   "slug": "sao-mauro",
   "legenda": "Obediência radical gera frutos que a razão não explica.",
   "historia": "São Mauro foi discípulo direto de São Bento e exemplo de obediência perfeita. Sua vida monástica demonstrou que a submissão à vontade de Deus, mediada pela autoridade legítima, conduz à santidade e à fecundidade espiritual."
+},
+{
+  "data": "16-01-2026",
+  "nome": "São Marcelo I, Papa",
+  "slug": "sao-marcelo-i-papa",
+  "legenda": "A Igreja não se curva ao pecado nem em tempos de perseguição.",
+  "historia": "São Marcelo I foi Papa no início do século IV, em meio às perseguições do imperador Maxêncio. Trabalhou incansavelmente para restaurar a disciplina da Igreja após as apostasias causadas pelo medo. Sua firmeza desagradou às autoridades, levando-o ao exílio e à morte. Governou com rigor pastoral e fidelidade absoluta à verdade."
+},
+
+{
+  "data": "17-01-2026",
+  "nome": "Santo Antão do Deserto",
+  "slug": "santo-antao-do-deserto",
+  "legenda": "Quem não combate o pecado foge do deserto e perde a alma.",
+  "historia": "Santo Antão, pai do monaquismo cristão, viveu no século III. Abandonou tudo para viver no deserto em penitência, oração e combate espiritual intenso contra as tentações. Sua vida influenciou gerações de monges e mostrou que a santidade exige ruptura radical com o mundo."
+},
+{
+  "data": "18-01-2026",
+  "nome": "São Prisca e São Mário",
+  "slug": "sao-prisca-e-sao-mario",
+  "legenda": "A fé verdadeira enfrenta a morte sem negociar a verdade.",
+  "historia": "São Mário e sua esposa Prisca viveram no século III e sofreram martírio em Roma por se recusarem a renegar Cristo. Foram submetidos a torturas e executados por sua fidelidade inabalável. Seu testemunho confirma que a fé cristã sempre custou sangue."
+},
+{
+  "data": "19-01-2026",
+  "nome": "São Canuto IV, Rei",
+  "slug": "sao-canuto-iv-rei",
+  "legenda": "Governar com justiça exige mais coragem que agradar o povo.",
+  "historia": "São Canuto IV foi rei da Dinamarca no século XI. Defendeu a Igreja, combateu abusos morais e promoveu a justiça cristã. Sua fidelidade ao Evangelho provocou revolta popular, culminando em seu assassinato dentro de uma igreja. Morreu como mártir do dever cristão."
+},
+{
+  "data": "20-01-2026",
+  "nome": "São Sebastião",
+  "slug": "sao-sebastiao",
+  "legenda": "Ser cristão escondido é trair Cristo no momento decisivo.",
+  "historia": "São Sebastião foi soldado romano no século III. Mesmo servindo no exército, professava secretamente a fé cristã e fortalecia os perseguidos. Descoberto, foi martirizado por flechas e, sobrevivendo, voltou a denunciar o imperador, sendo morto definitivamente. Sua coragem tornou-se símbolo de fidelidade até o fim."
+},
+{
+  "data": "21-01-2026",
+  "nome": "Santa Inês",
+  "slug": "santa-ines",
+  "legenda": "Pureza cristã vale mais que a própria vida.",
+  "historia": "Santa Inês, ainda adolescente, viveu em Roma no século IV. Recusou-se a renegar sua fé e a violar sua consagração a Cristo. Foi condenada e morta por sua fidelidade. Seu martírio testemunha que a santidade não depende da idade, mas da entrega total."
+},
+{
+  "data": "22-01-2026",
+  "nome": "São Vicente de Saragoça",
+  "slug": "sao-vicente-de-saragoca",
+  "legenda": "O corpo pode ser destruído, mas a fé não se dobra.",
+  "historia": "São Vicente foi diácono no século IV e sofreu perseguições brutais sob o imperador Diocleciano. Submetido a torturas extremas, manteve-se firme na fé até a morte. Seu martírio tornou-se um dos mais venerados da Igreja primitiva."
+},
+{
+  "data": "23-01-2026",
+  "nome": "São Ildefonso de Toledo",
+  "slug": "sao-ildefonso-de-toledo",
+  "legenda": "Quem dilui a doutrina trai a missão da Igreja.",
+  "historia": "São Ildefonso foi bispo de Toledo no século VII e defensor ardoroso da doutrina mariana. Combateu erros teológicos e escreveu tratados fundamentais sobre a fé. Sua fidelidade ao Magistério fortaleceu a Igreja na Espanha visigótica."
+},
+{
+  "data": "24-01-2026",
+  "nome": "São Francisco de Sales",
+  "slug": "sao-francisco-de-sales",
+  "legenda": "Doçura não é relativismo; é caridade sem traição da verdade.",
+  "historia": "São Francisco de Sales foi bispo e doutor da Igreja no século XVII. Combateu o calvinismo com clareza doutrinal e mansidão pastoral, convertendo milhares. Ensinou que a santidade é possível em qualquer estado de vida, sem concessões ao erro."
+},
+{
+  "data": "25-01-2026",
+  "nome": "Conversão de São Paulo",
+  "slug": "conversao-de-sao-paulo",
+  "legenda": "Cristo não melhora o homem velho; Ele o derruba e cria outro.",
+  "historia": "Saulo, perseguidor da Igreja, encontrou Cristo no caminho de Damasco. Derrubado, cego e humilhado, converteu-se radicalmente. Tornou-se o maior missionário do cristianismo, proclamando a fé até o martírio. Sua conversão mostra que ninguém está fora do alcance da graça."
+},
+{
+  "data": "26-01-2026",
+  "nome": "São Timóteo e São Tito",
+  "slug": "sao-timoteo-e-sao-tito",
+  "legenda": "Pastores fracos destroem o rebanho.",
+  "historia": "Discípulos diretos de São Paulo, Timóteo e Tito foram bispos e líderes das primeiras comunidades cristãs. Enfrentaram heresias, divisões internas e perseguições. As cartas pastorais mostram a exigência moral e doutrinal para quem governa a Igreja."
+},
+{
+  "data": "27-01-2026",
+  "nome": "Santa Ângela Mérici",
+  "slug": "santa-angela-merici",
+  "legenda": "Educar sem Deus é fabricar adultos vazios.",
+  "historia": "Santa Ângela Mérici fundou a Companhia de Santa Úrsula no século XVI, dedicada à formação cristã das jovens. Em tempos de decadência moral, defendeu a educação baseada na fé, disciplina e virtude. Sua obra moldou gerações."
+},
+{
+  "data": "28-01-2026",
+  "nome": "São Tomás de Aquino",
+  "slug": "sao-tomas-de-aquino",
+  "legenda": "Fé sem razão vira fanatismo; razão sem fé vira soberba.",
+  "historia": "São Tomás de Aquino, doutor da Igreja, uniu fé e razão com rigor intelectual incomparável. Sua obra teológica permanece fundamento do pensamento católico. Viveu humildemente e morreu afirmando que tudo o que escreveu era nada diante de Deus."
+},
+{
+  "data": "29-01-2026",
+  "nome": "São Valério de Saragoça",
+  "slug": "sao-valerio-de-saragoca",
+  "legenda": "O silêncio fiel vale mais que discursos vazios.",
+  "historia": "São Valério foi bispo no século IV e sofreu exílio durante as perseguições romanas. Mesmo limitado na fala, governou com fidelidade e santidade, mostrando que a autoridade espiritual vem da verdade, não da eloquência."
+},
+{
+  "data": "30-01-2026",
+  "nome": "Santa Jacinta de Mariscotti",
+  "slug": "santa-jacinta-de-mariscotti",
+  "legenda": "Conversão tardia ainda exige penitência real.",
+  "historia": "Após vida de luxo e pecado, Jacinta converteu-se profundamente e ingressou na vida religiosa. Viveu penitência rigorosa e serviço aos pobres. Sua vida prova que arrependimento verdadeiro transforma tudo."
+},
+{
+  "data": "31-01-2026",
+  "nome": "São João Bosco",
+  "slug": "sao-joao-bosco",
+  "legenda": "Juventude sem disciplina vira ruína social.",
+  "historia": "São João Bosco dedicou-se à educação cristã dos jovens pobres no século XIX. Fundou a Congregação Salesiana e combateu a marginalização juvenil com fé, trabalho e exigência moral. Sua pedagogia salvou almas e moldou cidadãos."
 }
-
-
-
 ]
