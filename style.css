@@ -1,8 +1,10 @@
-body { font-family: Arial, sans-serif; 
-  max-width: 800px; 
+body { 
+  font-family: Arial, sans-serif; 
+  max-width: 720px; 
   margin: 0 auto; 
   padding: 20px; 
-  line-height: 1.6; 
+  line-height: 1.6;
+  font-size: 18px;
 } 
 
 a { 
