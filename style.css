@@ -54,3 +54,37 @@ footer.rodape img {
   display: block;
   margin: 0 auto 10px auto;
 }
+
+/* =========================
+   PÁGINAS INTERNAS (SANTOS)
+========================= */
+
+/* Lista dos santos */
+ul li {
+  font-size: 1.15rem;   /* maior no mobile */
+  margin-bottom: 14px;
+}
+
+/* Página do santo */
+article p,
+main p {
+  font-size: 1.1rem;
+  line-height: 1.85;
+}
+
+/* Datas e títulos */
+h1 {
+  font-size: 1.9rem;
+}
+
+h2 {
+  font-size: 1.4rem;
+  margin-top: 30px;
+}
+
+/* Mobile extra */
+@media (max-width: 480px) {
+  body {
+    font-size: 18px;
+  }
+}
