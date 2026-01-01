@@ -16,7 +16,7 @@ if (!fs.existsSync(baseDir)) {
 santos.forEach(santo => {
 
   // HTML da página do santo
-  const html = `
+ const html = `
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -26,34 +26,34 @@ santos.forEach(santo => {
 </head>
 <body>
 
-<h1>${santo.nome}</h1>
+<main class="pagina-santo">
 
-<p><strong>Comemoração:</strong> ${santo.data}</p>
+  <h1>${santo.nome}</h1>
 
-<hr>
+  <p class="data-liturgica">${santo.data}</p>
 
-<p><strong>Verdade incômoda:</strong><br>
-${santo.legenda}</p>
+  <blockquote>
+    ${santo.legenda}
+  </blockquote>
 
-<hr>
+  <div class="historia-santo">
+    ${santo.historia
+      .split("\n\n")
+      .map(p => `<p>${p}</p>`)
+      .join("")}
+  </div>
 
-<h2>História completa</h2>
+  <p class="oracao-final">
+    ${santo.nome}, rogai por nós.
+  </p>
 
-<p>${santo.historia}</p>
+  <a href="index.html">← Voltar</a>
 
-<hr>
-
-<p><strong>${santo.nome}, rogai por nós.</strong></p>
-
-<p style="font-size: 0.9em;">
-Fonte: Martirológio Romano, Vatican.va
-</p>
-
-<a href="./index.html">← Voltar aos santos de janeiro</a>
+</main>
 
 </body>
 </html>
-  `;
+`;
 
   // Cria o arquivo HTML com o nome do slug
   fs.writeFileSync(`${baseDir}/${santo.slug}.html`, html);
