@@ -118,11 +118,12 @@ footer.rodape img {
   font-size: 1.1rem;
 }
 
-/* ===== AJUSTE MOBILE – SOMENTE PÁGINA DOS SANTOS ===== */
 @media (max-width: 768px) {
 
+  /* AUMENTA TUDO APENAS NA PÁGINA DO SANTO */
   .pagina-santo {
     font-size: 22px;
+    line-height: 1.9;
   }
 
   .pagina-santo h1 {
@@ -140,7 +141,13 @@ footer.rodape img {
   .pagina-santo .historia-santo p {
     font-size: 1.25rem;
   }
+
+  .pagina-santo .oracao-final {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
 }
+
 
 
 
