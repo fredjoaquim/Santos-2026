@@ -1,10 +1,10 @@
 body {
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 18px;
-  line-height: 1.7;
+  font-size: 20px;
+  line-height: 1.9;
   max-width: 800px;
-  margin: auto;
-  padding: 16px;
+  margin: 0;
+  padding: 20px;
 }
 
 h1 {
@@ -60,28 +60,38 @@ footer.rodape img {
   margin: 0 auto 10px auto;
 }
 
-/* ===== AJUSTE MOBILE URGENTE ===== */
+.mes-link {
+  display: block;
+  font-size: 1.4rem;
+  margin: 30px 0;
+  padding: 12px;
+  border: 2px solid #8b0000;
+  text-align: center;
+  border-radius: 6px;
+}
+
+.mes-link:hover {
+  background: #8b0000;
+  color: #fff;
+}
+
+/* ===== AJUSTE MOBILE ===== */
 @media (max-width: 768px) {
 
   body {
-    font-size: 20px; /* AUMENTA O TEXTO BASE */
-    line-height: 1.9;
+    font-size: 22px; /* AUMENTA O TEXTO BASE */
   }
 
   h1 {
-    font-size: 2.2rem; /* TÍTULO DO SANTO */
+    font-size: 2.4rem; /* TÍTULO DO SANTO */
   }
 
-  p {
-    font-size: 1.15rem; /* TEXTO DA HISTÓRIA */
+  p, li {
+    font-size: 1.2rem; /* TEXTO DA HISTÓRIA */
   }
 
   blockquote {
-    font-size: 1.1rem; /* FRASE EM DESTAQUE */
-  }
-
-  ul li {
-    font-size: 1.15rem; /* LISTA DE SANTOS */
+    font-size: 1.15rem; /* FRASE EM DESTAQUE */
   }
 }
 
