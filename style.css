@@ -60,3 +60,29 @@ footer.rodape img {
   margin: 0 auto 10px auto;
 }
 
+/* ===== AJUSTE MOBILE URGENTE ===== */
+@media (max-width: 768px) {
+
+  body {
+    font-size: 20px; /* AUMENTA O TEXTO BASE */
+    line-height: 1.9;
+  }
+
+  h1 {
+    font-size: 2.2rem; /* TÍTULO DO SANTO */
+  }
+
+  p {
+    font-size: 1.15rem; /* TEXTO DA HISTÓRIA */
+  }
+
+  blockquote {
+    font-size: 1.1rem; /* FRASE EM DESTAQUE */
+  }
+
+  ul li {
+    font-size: 1.15rem; /* LISTA DE SANTOS */
+  }
+}
+
+
