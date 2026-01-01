@@ -75,24 +75,72 @@ footer.rodape img {
   color: #fff;
 }
 
-/* ===== AJUSTE MOBILE ===== */
+/* ===== PÁGINA DOS SANTOS – TEXTO MAIOR (MOBILE E DESKTOP) ===== */
+
+.pagina-santo {
+  font-size: 20px; /* base maior só aqui */
+  line-height: 1.9;
+}
+
+/* TÍTULO DO SANTO */
+.pagina-santo h1 {
+  font-size: 2.4rem;
+  margin-bottom: 0.4em;
+}
+
+/* DATA LITÚRGICA */
+.pagina-santo .data-liturgica {
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-bottom: 1.2em;
+}
+
+/* FRASE / LEGENDA */
+.pagina-santo blockquote {
+  font-size: 1.25rem;
+}
+
+/* TEXTO DA HISTÓRIA */
+.pagina-santo .historia-santo p {
+  font-size: 1.2rem;
+}
+
+/* ORAÇÃO FINAL */
+.pagina-santo .oracao-final {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-top: 2em;
+}
+
+/* LINK VOLTAR */
+.pagina-santo a.voltar,
+.pagina-santo a {
+  font-size: 1.1rem;
+}
+
+/* ===== AJUSTE MOBILE – SOMENTE PÁGINA DOS SANTOS ===== */
 @media (max-width: 768px) {
 
-  body {
-    font-size: 22px; /* AUMENTA O TEXTO BASE */
+  .pagina-santo {
+    font-size: 22px;
   }
 
-  h1 {
-    font-size: 2.4rem; /* TÍTULO DO SANTO */
+  .pagina-santo h1 {
+    font-size: 2.6rem;
   }
 
-  p, li {
-    font-size: 1.2rem; /* TEXTO DA HISTÓRIA */
+  .pagina-santo .data-liturgica {
+    font-size: 1.4rem;
   }
 
-  blockquote {
-    font-size: 1.15rem; /* FRASE EM DESTAQUE */
+  .pagina-santo blockquote {
+    font-size: 1.3rem;
+  }
+
+  .pagina-santo .historia-santo p {
+    font-size: 1.25rem;
   }
 }
+
 
 
